@@ -1,0 +1,6 @@
+$header-backround-color: #c0eea9;
+$section-background-color: #97d279;
+$standard-padding: 20px;
+@mixin standard-style {
+  padding: $standard-padding;
+}
